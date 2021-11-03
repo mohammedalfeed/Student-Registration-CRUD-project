@@ -1,3 +1,3 @@
 # Student-Registration-CRUD-project
 
-Developed Using Python and Django
+**_Developed a sample working responsive CRUD website Using Python and Django. _**
